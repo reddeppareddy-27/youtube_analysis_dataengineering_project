@@ -6,6 +6,12 @@
 
 ---
 
+Kaggle Dataset Link:https://www.kaggle.com/datasets/datasnaek/youtube-new
+
+# 📌 Architecture Diagram
+<img width="2730" height="1536" alt="architecture" src="https://github.com/user-attachments/assets/fbbeaa1d-5dfa-4aef-bb4d-83e4242d49c1" />
+
+
 # 📌 Project Overview
 
 This project demonstrates an **end-to-end data engineering pipeline** built using **AWS cloud services and Microsoft Fabric** to analyze **YouTube Trending Data**.
