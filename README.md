@@ -1,12 +1,10 @@
 
-
-```markdown
 # 🚀 End-to-End Data Engineering Project  
 ## YouTube Trending Data Analytics (AWS + Microsoft Fabric)
 
 ---
 
-Kaggle Dataset Link:https://www.kaggle.com/datasets/datasnaek/youtube-new
+Kaggle Dataset Link: https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 # 📌 Architecture Diagram
 <img width="2730" height="1536" alt="architecture" src="https://github.com/user-attachments/assets/fbbeaa1d-5dfa-4aef-bb4d-83e4242d49c1" />
@@ -290,12 +288,4 @@ Possible improvements include:
 
 Aspiring **Data Engineer | Data Analyst | Cloud & Data Enthusiast**
 
----
-
-# ⭐ Support
-
-If you found this project useful, consider giving this repository a **star ⭐**.
-```
-
----
 
